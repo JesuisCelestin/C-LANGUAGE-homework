@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1384148238 source:c:\users\administrator\desktop\mn3_偏微分代码+历年考试答案\pde\pde\array.c
+	<malloc.h>
+	"array.h"
+
+1384151500 c:\users\administrator\desktop\mn3_偏微分代码+历年考试答案\pde\pde\array.h
+	<malloc.h>
+
+1475121907 source:c:\users\administrator\desktop\mn3_偏微分代码+历年考试答案\pde\pde\heatconduct.c
+	<math.h>
+	<stdio.h>
+	"heatconduct.h"
+	"linear.h"
+	"array.h"
+
+1409813826 c:\users\administrator\desktop\mn3_偏微分代码+历年考试答案\pde\pde\heatconduct.h
+
+1409515048 c:\users\administrator\desktop\mn3_偏微分代码+历年考试答案\pde\pde\linear.h
+
+1475112764 source:c:\users\administrator\desktop\mn3_偏微分代码+历年考试答案\pde\pde\heatconduct2d.c
+	<math.h>
+	<stdio.h>
+	"heatconduct2d.h"
+	"linear.h"
+	"array.h"
+
+1410314248 c:\users\administrator\desktop\mn3_偏微分代码+历年考试答案\pde\pde\heatconduct2d.h
+
+1409515048 source:c:\users\administrator\desktop\mn3_偏微分代码+历年考试答案\pde\pde\linear.c
+	<math.h>
+	<stdio.h>
+	"linear.h"
+
+1475121991 source:c:\users\administrator\desktop\mn3_偏微分代码+历年考试答案\pde\pde\main_pde.c
+	<stdio.h>
+	"poisson.h"
+	"ns2d.h"
+	"heatconduct.h"
+	"heatconduct2D.h"
+
+1409515048 c:\users\administrator\desktop\mn3_偏微分代码+历年考试答案\pde\pde\poisson.h
+
+1409515048 c:\users\administrator\desktop\mn3_偏微分代码+历年考试答案\pde\pde\ns2d.h
+
+1475112764 source:c:\users\administrator\desktop\mn3_偏微分代码+历年考试答案\pde\pde\ns2d_cavity.c
+	<stdio.h>
+	<math.h>
+	"ns2d.h"
+	"array.h"
+
+1475112764 source:c:\users\administrator\desktop\mn3_偏微分代码+历年考试答案\pde\pde\poisson.c
+	<stdio.h>
+	<math.h>
+	"array.h"
+	"poisson.h"
+
+1384148238 source:c:\users\administrator\desktop\pde\array.c
+	<malloc.h>
+	"array.h"
+
+1384151500 c:\users\administrator\desktop\pde\array.h
+	<malloc.h>
+
+1475112766 source:c:\users\administrator\desktop\pde\heatconduct2d.c
+	<math.h>
+	<stdio.h>
+	"heatconduct2d.h"
+	"linear.h"
+	"array.h"
+
+1410314248 c:\users\administrator\desktop\pde\heatconduct2d.h
+
+1409515048 c:\users\administrator\desktop\pde\linear.h
+
+1409515048 source:c:\users\administrator\desktop\pde\linear.c
+	<math.h>
+	<stdio.h>
+	"linear.h"
+
+1475200655 source:c:\users\administrator\desktop\pde\main_pde.c
+	<stdio.h>
+	"poisson.h"
+	"ns2d.h"
+	"heatconduct.h"
+	"heatconduct2D.h"
+
+1409515048 c:\users\administrator\desktop\pde\poisson.h
+
+1409515048 c:\users\administrator\desktop\pde\ns2d.h
+
+1409813826 c:\users\administrator\desktop\pde\heatconduct.h
+
+1475112766 source:c:\users\administrator\desktop\pde\ns2d_cavity.c
+	<stdio.h>
+	<math.h>
+	"ns2d.h"
+	"array.h"
+
+1475112766 source:c:\users\administrator\desktop\pde\poisson.c
+	<stdio.h>
+	<math.h>
+	"array.h"
+	"poisson.h"
+
+1475200292 source:c:\users\administrator\desktop\pde\heatconduct.c
+	<math.h>
+	<stdio.h>
+	"heatconduct.h"
+	"linear.h"
+	"array.h"
+
+1384148238 source:c:\users\administrator\desktop\9.30\pde\array.c
+	<malloc.h>
+	"array.h"
+
+1384151500 c:\users\administrator\desktop\9.30\pde\array.h
+	<malloc.h>
+
+1475112766 source:c:\users\administrator\desktop\9.30\pde\heatconduct2d.c
+	<math.h>
+	<stdio.h>
+	"heatconduct2d.h"
+	"linear.h"
+	"array.h"
+
+1410314248 c:\users\administrator\desktop\9.30\pde\heatconduct2d.h
+
+1409515048 c:\users\administrator\desktop\9.30\pde\linear.h
+
+1409515048 source:c:\users\administrator\desktop\9.30\pde\linear.c
+	<math.h>
+	<stdio.h>
+	"linear.h"
+
+1476013807 source:c:\users\administrator\desktop\9.30\pde\main_pde.c
+	<stdio.h>
+	"poisson.h"
+	"ns2d.h"
+	"heatconduct.h"
+	"heatconduct2D.h"
+
+1409515048 c:\users\administrator\desktop\9.30\pde\poisson.h
+
+1409515048 c:\users\administrator\desktop\9.30\pde\ns2d.h
+
+1409813826 c:\users\administrator\desktop\9.30\pde\heatconduct.h
+
+1475112766 source:c:\users\administrator\desktop\9.30\pde\ns2d_cavity.c
+	<stdio.h>
+	<math.h>
+	"ns2d.h"
+	"array.h"
+
+1475112766 source:c:\users\administrator\desktop\9.30\pde\poisson.c
+	<stdio.h>
+	<math.h>
+	"array.h"
+	"poisson.h"
+
+1476013103 source:c:\users\administrator\desktop\9.30\pde\heatconduct.c
+	<math.h>
+	<stdio.h>
+	"heatconduct.h"
+	"linear.h"
+	"array.h"
+
+1475968186 source:c:\users\administrator\desktop\9.30\pde\heatconduct.2.c
+	<math.h>
+	<stdio.h>
+	"heatconduct.h"
+	"linear.h"
+	"array.h"
+

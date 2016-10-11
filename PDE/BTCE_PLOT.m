@@ -1,0 +1,11 @@
+a=dlmread('heat_BTCS0.5.dat')
+b=dlmread('heat_BTCS0.4.dat')
+c=dlmread('heat_BTCS0.3.dat')
+d=dlmread('heat_BTCS0.2.dat')
+e=dlmread('heat_BTCS0.1.dat')
+
+plot(a(:,1),a(:,2),'k',b(:,1),b(:,2),'b',c(:,1),c(:,2),'m',d(:,1),d(:,2),'green',e(:,1),e(:,2),'red')
+xlabel('X')
+ylabel('Y')
+title('PDE BTCS')
+legend('t=0.5','t=0.4','t=0.3','t=0.2','t=0.1')
